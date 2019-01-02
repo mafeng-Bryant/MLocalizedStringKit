@@ -62,11 +62,11 @@
 		617F8065BB9177B083F9867C /* Pods-MLocalizedStringKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MLocalizedStringKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MLocalizedStringKit_Example/Pods-MLocalizedStringKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A25617130EB5E19D5ADB8859 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A25617130EB5E19D5ADB8859 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B886528537EF23F67903F60E /* Pods_MLocalizedStringKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MLocalizedStringKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC0C6F0C643E687E4ED3139E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BC0C6F0C643E687E4ED3139E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CBE04E985B04E6641085223F /* Pods_MLocalizedStringKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MLocalizedStringKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED400DDFA82ADB971FC3539F /* MLocalizedStringKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MLocalizedStringKit.podspec; path = ../MLocalizedStringKit.podspec; sourceTree = "<group>"; };
+		ED400DDFA82ADB971FC3539F /* MLocalizedStringKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MLocalizedStringKit.podspec; path = ../MLocalizedStringKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

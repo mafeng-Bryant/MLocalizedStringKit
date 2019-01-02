@@ -1,0 +1,16 @@
+PODS:
+  - MLocalizedStringKit (0.1.0)
+
+DEPENDENCIES:
+  - MLocalizedStringKit (from `../`)
+
+EXTERNAL SOURCES:
+  MLocalizedStringKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLocalizedStringKit: c57014c03df861a5f859eaf2de5faff1597f89f6
+
+PODFILE CHECKSUM: f7eb4e35c98e0aef3a60f528f2a774b1869c2f3c
+
+COCOAPODS: 1.5.3
