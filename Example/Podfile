@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MLocalizedStringKit_Example' do
+  pod 'MLocalizedStringKit', :path => '../'
+
+  target 'MLocalizedStringKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
