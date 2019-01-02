@@ -1,5 +1,5 @@
 PODS:
-  - MLocalizedStringKit (0.1.0)
+  - MLocalizedStringKit (1.0.0)
 
 DEPENDENCIES:
   - MLocalizedStringKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MLocalizedStringKit: c57014c03df861a5f859eaf2de5faff1597f89f6
+  MLocalizedStringKit: 6a7a076c228d94347ab9f37794e028e62591028c
 
 PODFILE CHECKSUM: f7eb4e35c98e0aef3a60f528f2a774b1869c2f3c
 

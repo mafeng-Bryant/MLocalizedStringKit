@@ -8,13 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		0A6EF564CD9B7F73D0ED3BF841E7BACB /* Pods-MLocalizedStringKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D3CF326E887608E3F7593564516395F /* Pods-MLocalizedStringKit_Example-dummy.m */; };
-		33E038C319CF34539949C76D74628336 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		0BB07F4FC3EDFC9F68AF99ACFFC8BDB5 /* PPLocalizedStringHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 819990CCDB15560884DD53D96223F0D6 /* PPLocalizedStringHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1CF5707FCCD2D797013F1189F2474FA9 /* PPLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = A8FF5B26E21BBAB91B484DE371FB2DDC /* PPLocalizedString.m */; };
+		2067D83BBB24D080EFBAE9C32C21E5E8 /* PPOrderLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = 883BA45EAD99E4CFE419C572E4A86616 /* PPOrderLocalizedString.m */; };
+		24C0F57259AB2E7D20D376C793A17351 /* PPLocalizationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A0251903BDFE3AD4BB855528B6198F /* PPLocalizationManager.m */; };
+		25D665DC6799028907CAC7A8A85E76DD /* PPLoginLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = DF124DBA83EA6D4E8E9663293DF8667B /* PPLoginLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2814B4F08373207962B2A49F70F8B929 /* PPShoppingLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F67047ED4B2EB27AA63DA14F479F936 /* PPShoppingLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		28B2995D2DA9CE2EBC26F648E14C0C33 /* PPLocalizationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 30D2AA7B3424D50C4ECEFD87D4586515 /* PPLocalizationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2D2C095B5113E8E795AE36EA3470438E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		301939017011962623AD054DB0195E02 /* PPMoreLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = B096E8906BBD7B30E1194C26550C0728 /* PPMoreLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A39EC20AFBA791A9274A88569BAD17E /* PPModelLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = D07AD9B4E74C4EF2C65A24D394E57725 /* PPModelLocalizedString.m */; };
+		4D83E5631B858B015A726FF93C4E2404 /* PPLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = 3CEE845C9217890EDE73652CAA8D9A95 /* PPLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		59EFE6F60898FF003ADDAF05BB37E60A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		A85FA8DFEA69ECEC0CC0C9C06E708463 /* MLocalizedStringKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9236F513C30616BDA6E073C9430C6630 /* MLocalizedStringKit-dummy.m */; };
+		83F52C147CB330B88921EB772D102811 /* PPViewLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = 86EB5AE63133C532289CBD5E4669215A /* PPViewLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		84797603F51A33A12F9A341CAAA4E866 /* PPLoginLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = C1E26C21962EDC1B99B494F892401F4E /* PPLoginLocalizedString.m */; };
+		9909AD5D0C4372FE1E1F1C6A7AF5619E /* PPMoreLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F43F871B6DA33E44B30951C8D9EF55F /* PPMoreLocalizedString.m */; };
+		A26F135352EECD729859B7D972991EAD /* PPShoppingLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1C76959643794ECF12580C21D4CCCC /* PPShoppingLocalizedString.m */; };
+		B1BD2CF525A5251AF73A9BDDB279D506 /* MLocalizedStringKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3FC21D61E49858BD7E4BE72552E9D2 /* MLocalizedStringKit-dummy.m */; };
+		B3207AD8A420AD09BE35D3F8ABA9F5D1 /* PPViewLocalizedString.m in Sources */ = {isa = PBXBuildFile; fileRef = BABFB40AC7FEC90E0E4D532EF163A27C /* PPViewLocalizedString.m */; };
+		B5CE9A0FACCEC945B13D05C07062CF3B /* PPModelLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = DA2C18BD866C5978804DC9FA54114F9E /* PPModelLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C4C37B1A89BF8AB0F8991F78DC8AA191 /* Pods-MLocalizedStringKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 587B1C2A4219679323A9D851E9684107 /* Pods-MLocalizedStringKit_Tests-dummy.m */; };
 		C584C214519B9EAC685D74D5C135BF20 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		C9B8C38FEA15C9CC6441DF8E22C5A89E /* Pods-MLocalizedStringKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 98A3374274078BB5D30FA07962B9F154 /* Pods-MLocalizedStringKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0EB64254334E7F75F1243856A2C32F7 /* MLocalizedStringKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C5763AFB9ED882A27159850BD9EE3584 /* MLocalizedStringKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB7463F235F9022115C045A96CD14BFF /* MLocalizedStringKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CC5B78E2E457C4C2634DA1E17F21B3E0 /* MLocalizedStringKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D142BF2B7E94FA3F83A8F419ECE48A33 /* PPOrderLocalizedString.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AE43C51E559AFA18A8F875C7C317E8E /* PPOrderLocalizedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F09E7AAEE158DDA20B08D96CB13B6011 /* Pods-MLocalizedStringKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9ADA31FAE7C0D707B179D0E7E1CA353B /* Pods-MLocalizedStringKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -23,7 +40,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 21BE90A05C845E884D07D7949FF9FAD1;
+			remoteGlobalIDString = 5ECDC7D18352B235D0E1435A5DE06210;
 			remoteInfo = MLocalizedStringKit;
 		};
 		E23866643ED07EFDEF175943EF2A8C08 /* PBXContainerItemProxy */ = {
@@ -37,47 +54,64 @@
 
 /* Begin PBXFileReference section */
 		00E3A6CB3EFACB67C29C42840B87672B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		156291FE1E19CC9E2FA387817951B5FD /* MLocalizedStringKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLocalizedStringKit-prefix.pch"; sourceTree = "<group>"; };
+		10E966773FCCE98BCB8FE75B4B6C7256 /* MLocalizedStringKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MLocalizedStringKit.modulemap; sourceTree = "<group>"; };
 		22142B125405A45ACC80A86BD2A53E61 /* Pods-MLocalizedStringKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MLocalizedStringKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		238C75435CB06D1BF185227B30C67327 /* Pods-MLocalizedStringKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MLocalizedStringKit_Example-frameworks.sh"; sourceTree = "<group>"; };
-		3BC7571F8AE36BFE47CEC54F4BF63A63 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		438C988A133767F8C4D0488802289BE1 /* MLocalizedStringKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = MLocalizedStringKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		30D2AA7B3424D50C4ECEFD87D4586515 /* PPLocalizationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPLocalizationManager.h; path = MLocalizedStringKit/Classes/PPLocalizationManager.h; sourceTree = "<group>"; };
+		3CEE845C9217890EDE73652CAA8D9A95 /* PPLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPLocalizedString.h; path = MLocalizedStringKit/Classes/PPLocalizedString.h; sourceTree = "<group>"; };
 		497E3618318B358621C0C60308663296 /* Pods-MLocalizedStringKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MLocalizedStringKit_Tests.modulemap"; sourceTree = "<group>"; };
+		4D1C76959643794ECF12580C21D4CCCC /* PPShoppingLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPShoppingLocalizedString.m; path = MLocalizedStringKit/Classes/PPShoppingLocalizedString.m; sourceTree = "<group>"; };
+		4F43F871B6DA33E44B30951C8D9EF55F /* PPMoreLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPMoreLocalizedString.m; path = MLocalizedStringKit/Classes/PPMoreLocalizedString.m; sourceTree = "<group>"; };
 		580F6B7A0B88D7D1F61CC86223A50FA4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		587B1C2A4219679323A9D851E9684107 /* Pods-MLocalizedStringKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MLocalizedStringKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		60329941E2C5F8B450CD1C2F0D7D2EC6 /* Pods_MLocalizedStringKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MLocalizedStringKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		642AEE846D310B21D16FE7333D11F13A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		66F31D07A202F3B96320816C54252576 /* MLocalizedStringKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MLocalizedStringKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AE43C51E559AFA18A8F875C7C317E8E /* PPOrderLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPOrderLocalizedString.h; path = MLocalizedStringKit/Classes/PPOrderLocalizedString.h; sourceTree = "<group>"; };
+		5F67047ED4B2EB27AA63DA14F479F936 /* PPShoppingLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPShoppingLocalizedString.h; path = MLocalizedStringKit/Classes/PPShoppingLocalizedString.h; sourceTree = "<group>"; };
+		5FB63FDC9D307ACC576496175B6A3761 /* MLocalizedStringKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLocalizedStringKit-prefix.pch"; sourceTree = "<group>"; };
+		60329941E2C5F8B450CD1C2F0D7D2EC6 /* Pods_MLocalizedStringKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MLocalizedStringKit_Example.framework; path = "Pods-MLocalizedStringKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		66F31D07A202F3B96320816C54252576 /* MLocalizedStringKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MLocalizedStringKit.framework; path = MLocalizedStringKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A49F5819DD96359AF2B2C257DA5C0B9 /* Pods-MLocalizedStringKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MLocalizedStringKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		76B4A9EDE4869C954FD5E79E4C59E362 /* Pods-MLocalizedStringKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MLocalizedStringKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		80292C4B5D69E9A0FD506765B3EDAD21 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		81A75C0B8AEDC812583DB546BBD91C84 /* MLocalizedStringKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MLocalizedStringKit.modulemap; sourceTree = "<group>"; };
+		819990CCDB15560884DD53D96223F0D6 /* PPLocalizedStringHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPLocalizedStringHeader.h; path = MLocalizedStringKit/Classes/PPLocalizedStringHeader.h; sourceTree = "<group>"; };
 		8423030649429BAB72DBEB720C947BD4 /* Pods-MLocalizedStringKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MLocalizedStringKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		86EB5AE63133C532289CBD5E4669215A /* PPViewLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPViewLocalizedString.h; path = MLocalizedStringKit/Classes/PPViewLocalizedString.h; sourceTree = "<group>"; };
+		883BA45EAD99E4CFE419C572E4A86616 /* PPOrderLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPOrderLocalizedString.m; path = MLocalizedStringKit/Classes/PPOrderLocalizedString.m; sourceTree = "<group>"; };
 		8D3CF326E887608E3F7593564516395F /* Pods-MLocalizedStringKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MLocalizedStringKit_Example-dummy.m"; sourceTree = "<group>"; };
-		9236F513C30616BDA6E073C9430C6630 /* MLocalizedStringKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MLocalizedStringKit-dummy.m"; sourceTree = "<group>"; };
+		90A0251903BDFE3AD4BB855528B6198F /* PPLocalizationManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPLocalizationManager.m; path = MLocalizedStringKit/Classes/PPLocalizationManager.m; sourceTree = "<group>"; };
 		92A4D00640E83550357EDD6A186CC6A4 /* Pods-MLocalizedStringKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MLocalizedStringKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		97AC4AE87B85930FA121143935DE5346 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		98A3374274078BB5D30FA07962B9F154 /* Pods-MLocalizedStringKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MLocalizedStringKit_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9ADA31FAE7C0D707B179D0E7E1CA353B /* Pods-MLocalizedStringKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MLocalizedStringKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		A368A2E300C9950AF5DF96DE61D335A5 /* Pods-MLocalizedStringKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MLocalizedStringKit_Example-resources.sh"; sourceTree = "<group>"; };
 		A843078287BF5E455EAA45A47FE61CE3 /* Pods-MLocalizedStringKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MLocalizedStringKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		A8FF5B26E21BBAB91B484DE371FB2DDC /* PPLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPLocalizedString.m; path = MLocalizedStringKit/Classes/PPLocalizedString.m; sourceTree = "<group>"; };
+		AA3FC21D61E49858BD7E4BE72552E9D2 /* MLocalizedStringKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MLocalizedStringKit-dummy.m"; sourceTree = "<group>"; };
 		ADDE197F4FA48749DB039F49CEFB40BA /* Pods-MLocalizedStringKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MLocalizedStringKit_Tests-resources.sh"; sourceTree = "<group>"; };
+		B096E8906BBD7B30E1194C26550C0728 /* PPMoreLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPMoreLocalizedString.h; path = MLocalizedStringKit/Classes/PPMoreLocalizedString.h; sourceTree = "<group>"; };
 		B111FB10D6DF49726CE9F8E1B79A9006 /* Pods-MLocalizedStringKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MLocalizedStringKit_Example.modulemap"; sourceTree = "<group>"; };
+		BABFB40AC7FEC90E0E4D532EF163A27C /* PPViewLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPViewLocalizedString.m; path = MLocalizedStringKit/Classes/PPViewLocalizedString.m; sourceTree = "<group>"; };
 		C0456C3BBB2B4B81011065D4E98EAB3C /* Pods-MLocalizedStringKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MLocalizedStringKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		C5763AFB9ED882A27159850BD9EE3584 /* MLocalizedStringKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLocalizedStringKit-umbrella.h"; sourceTree = "<group>"; };
+		C1E26C21962EDC1B99B494F892401F4E /* PPLoginLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPLoginLocalizedString.m; path = MLocalizedStringKit/Classes/PPLoginLocalizedString.m; sourceTree = "<group>"; };
+		C6865B93D196A492A15D11DA483D7A6F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		CC5B78E2E457C4C2634DA1E17F21B3E0 /* MLocalizedStringKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLocalizedStringKit-umbrella.h"; sourceTree = "<group>"; };
+		CCD07DF0A2B3822B8FDA27E0647847E0 /* MLocalizedStringKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = MLocalizedStringKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D07AD9B4E74C4EF2C65A24D394E57725 /* PPModelLocalizedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPModelLocalizedString.m; path = MLocalizedStringKit/Classes/PPModelLocalizedString.m; sourceTree = "<group>"; };
+		DA2C18BD866C5978804DC9FA54114F9E /* PPModelLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPModelLocalizedString.h; path = MLocalizedStringKit/Classes/PPModelLocalizedString.h; sourceTree = "<group>"; };
+		DEA1D337163C84A06712F9C701E29B7D /* MLocalizedStringKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MLocalizedStringKit.xcconfig; sourceTree = "<group>"; };
+		DF124DBA83EA6D4E8E9663293DF8667B /* PPLoginLocalizedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPLoginLocalizedString.h; path = MLocalizedStringKit/Classes/PPLoginLocalizedString.h; sourceTree = "<group>"; };
 		E26352B93DBA3F3EA5708504B92B1DBD /* Pods-MLocalizedStringKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MLocalizedStringKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F4F416E5255F8DA9FC8563579615493C /* Pods_MLocalizedStringKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MLocalizedStringKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4F416E5255F8DA9FC8563579615493C /* Pods_MLocalizedStringKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MLocalizedStringKit_Tests.framework; path = "Pods-MLocalizedStringKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7DA48C24A4CF6325D0D6D02FBA2A47A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD8DEEA3D170D73EC007F721E73CA1B8 /* Pods-MLocalizedStringKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MLocalizedStringKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		FDE3EFF8108867C11C49848B78B05AD5 /* MLocalizedStringKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MLocalizedStringKit.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A695BCF09B9942497D5CABCEF977F1A0 /* Frameworks */ = {
+		B45B88D4F3470F12E1A62F7B765DF6F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33E038C319CF34539949C76D74628336 /* Foundation.framework in Frameworks */,
+				2D2C095B5113E8E795AE36EA3470438E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,6 +134,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1FC74C10E9A5F5B7E51D5F48ED694264 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F7DA48C24A4CF6325D0D6D02FBA2A47A /* Info.plist */,
+				10E966773FCCE98BCB8FE75B4B6C7256 /* MLocalizedStringKit.modulemap */,
+				DEA1D337163C84A06712F9C701E29B7D /* MLocalizedStringKit.xcconfig */,
+				AA3FC21D61E49858BD7E4BE72552E9D2 /* MLocalizedStringKit-dummy.m */,
+				5FB63FDC9D307ACC576496175B6A3761 /* MLocalizedStringKit-prefix.pch */,
+				CC5B78E2E457C4C2634DA1E17F21B3E0 /* MLocalizedStringKit-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MLocalizedStringKit";
+			sourceTree = "<group>";
+		};
 		3384D5A19FE5E3A381FD2C114B75EF0B /* Pods-MLocalizedStringKit_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +166,16 @@
 			path = "Target Support Files/Pods-MLocalizedStringKit_Tests";
 			sourceTree = "<group>";
 		};
+		43714CBAAF3771D123D7F6A2F1106D82 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				97AC4AE87B85930FA121143935DE5346 /* LICENSE */,
+				CCD07DF0A2B3822B8FDA27E0647847E0 /* MLocalizedStringKit.podspec */,
+				C6865B93D196A492A15D11DA483D7A6F /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		44DD72AD03114B1FCEE85FA941C728F8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -128,16 +186,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		588720F3F9BBABDB6E5219C0A58E226C /* MLocalizedStringKit */ = {
-			isa = PBXGroup;
-			children = (
-				FCF263F17171FBC53FB04DDDCB84F5D1 /* Pod */,
-				60BB5B5A9CB4FC78F23A77BD5AC7AF59 /* Support Files */,
-			);
-			name = MLocalizedStringKit;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -146,33 +194,11 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		60BB5B5A9CB4FC78F23A77BD5AC7AF59 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				80292C4B5D69E9A0FD506765B3EDAD21 /* Info.plist */,
-				81A75C0B8AEDC812583DB546BBD91C84 /* MLocalizedStringKit.modulemap */,
-				FDE3EFF8108867C11C49848B78B05AD5 /* MLocalizedStringKit.xcconfig */,
-				9236F513C30616BDA6E073C9430C6630 /* MLocalizedStringKit-dummy.m */,
-				156291FE1E19CC9E2FA387817951B5FD /* MLocalizedStringKit-prefix.pch */,
-				C5763AFB9ED882A27159850BD9EE3584 /* MLocalizedStringKit-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MLocalizedStringKit";
-			sourceTree = "<group>";
-		};
-		64FF76044B4AAF0EFE5C47EDFCE1AF15 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				588720F3F9BBABDB6E5219C0A58E226C /* MLocalizedStringKit */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				64FF76044B4AAF0EFE5C47EDFCE1AF15 /* Development Pods */,
+				9E8E885BFF271C948FAD7A30E95F3AFA /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				44DD72AD03114B1FCEE85FA941C728F8 /* Products */,
 				84D7A710E631E19655260090705598BC /* Targets Support Files */,
@@ -206,6 +232,14 @@
 			path = "Target Support Files/Pods-MLocalizedStringKit_Example";
 			sourceTree = "<group>";
 		};
+		9E8E885BFF271C948FAD7A30E95F3AFA /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CAA0ED5815A2F20FC89CEEB1A800E026 /* MLocalizedStringKit */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -214,14 +248,31 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		FCF263F17171FBC53FB04DDDCB84F5D1 /* Pod */ = {
+		CAA0ED5815A2F20FC89CEEB1A800E026 /* MLocalizedStringKit */ = {
 			isa = PBXGroup;
 			children = (
-				642AEE846D310B21D16FE7333D11F13A /* LICENSE */,
-				438C988A133767F8C4D0488802289BE1 /* MLocalizedStringKit.podspec */,
-				3BC7571F8AE36BFE47CEC54F4BF63A63 /* README.md */,
+				30D2AA7B3424D50C4ECEFD87D4586515 /* PPLocalizationManager.h */,
+				90A0251903BDFE3AD4BB855528B6198F /* PPLocalizationManager.m */,
+				3CEE845C9217890EDE73652CAA8D9A95 /* PPLocalizedString.h */,
+				A8FF5B26E21BBAB91B484DE371FB2DDC /* PPLocalizedString.m */,
+				819990CCDB15560884DD53D96223F0D6 /* PPLocalizedStringHeader.h */,
+				DF124DBA83EA6D4E8E9663293DF8667B /* PPLoginLocalizedString.h */,
+				C1E26C21962EDC1B99B494F892401F4E /* PPLoginLocalizedString.m */,
+				DA2C18BD866C5978804DC9FA54114F9E /* PPModelLocalizedString.h */,
+				D07AD9B4E74C4EF2C65A24D394E57725 /* PPModelLocalizedString.m */,
+				B096E8906BBD7B30E1194C26550C0728 /* PPMoreLocalizedString.h */,
+				4F43F871B6DA33E44B30951C8D9EF55F /* PPMoreLocalizedString.m */,
+				5AE43C51E559AFA18A8F875C7C317E8E /* PPOrderLocalizedString.h */,
+				883BA45EAD99E4CFE419C572E4A86616 /* PPOrderLocalizedString.m */,
+				5F67047ED4B2EB27AA63DA14F479F936 /* PPShoppingLocalizedString.h */,
+				4D1C76959643794ECF12580C21D4CCCC /* PPShoppingLocalizedString.m */,
+				86EB5AE63133C532289CBD5E4669215A /* PPViewLocalizedString.h */,
+				BABFB40AC7FEC90E0E4D532EF163A27C /* PPViewLocalizedString.m */,
+				43714CBAAF3771D123D7F6A2F1106D82 /* Pod */,
+				1FC74C10E9A5F5B7E51D5F48ED694264 /* Support Files */,
 			);
-			name = Pod;
+			name = MLocalizedStringKit;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,19 +286,28 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		864117DC7768786D576DC6D9FD8FE7C1 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CB7463F235F9022115C045A96CD14BFF /* MLocalizedStringKit-umbrella.h in Headers */,
+				28B2995D2DA9CE2EBC26F648E14C0C33 /* PPLocalizationManager.h in Headers */,
+				4D83E5631B858B015A726FF93C4E2404 /* PPLocalizedString.h in Headers */,
+				0BB07F4FC3EDFC9F68AF99ACFFC8BDB5 /* PPLocalizedStringHeader.h in Headers */,
+				25D665DC6799028907CAC7A8A85E76DD /* PPLoginLocalizedString.h in Headers */,
+				B5CE9A0FACCEC945B13D05C07062CF3B /* PPModelLocalizedString.h in Headers */,
+				301939017011962623AD054DB0195E02 /* PPMoreLocalizedString.h in Headers */,
+				D142BF2B7E94FA3F83A8F419ECE48A33 /* PPOrderLocalizedString.h in Headers */,
+				2814B4F08373207962B2A49F70F8B929 /* PPShoppingLocalizedString.h in Headers */,
+				83F52C147CB330B88921EB772D102811 /* PPViewLocalizedString.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		87FF01B230EA99B57C77F5A4E7D55337 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C9B8C38FEA15C9CC6441DF8E22C5A89E /* Pods-MLocalizedStringKit_Tests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CAF815B86C876F225EB2F47C6D3DCB21 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D0EB64254334E7F75F1243856A2C32F7 /* MLocalizedStringKit-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,13 +332,13 @@
 			productReference = 60329941E2C5F8B450CD1C2F0D7D2EC6 /* Pods_MLocalizedStringKit_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		21BE90A05C845E884D07D7949FF9FAD1 /* MLocalizedStringKit */ = {
+		5ECDC7D18352B235D0E1435A5DE06210 /* MLocalizedStringKit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD8F1C9C0AA63A05C25BB8A4770EE8D4 /* Build configuration list for PBXNativeTarget "MLocalizedStringKit" */;
+			buildConfigurationList = C439E21E97C7733F81C41E9CFDEF2581 /* Build configuration list for PBXNativeTarget "MLocalizedStringKit" */;
 			buildPhases = (
-				BE25805A0EE97BE31EE2447B56410EED /* Sources */,
-				A695BCF09B9942497D5CABCEF977F1A0 /* Frameworks */,
-				CAF815B86C876F225EB2F47C6D3DCB21 /* Headers */,
+				6E95DA9C7456E78B8DD7162DFBFF8168 /* Sources */,
+				B45B88D4F3470F12E1A62F7B765DF6F2 /* Frameworks */,
+				864117DC7768786D576DC6D9FD8FE7C1 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -328,7 +388,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				21BE90A05C845E884D07D7949FF9FAD1 /* MLocalizedStringKit */,
+				5ECDC7D18352B235D0E1435A5DE06210 /* MLocalizedStringKit */,
 				0EBB3AE7FBB54321B45824471CA9449A /* Pods-MLocalizedStringKit_Example */,
 				C407BBD2D4A43C20C69148B335FE26BC /* Pods-MLocalizedStringKit_Tests */,
 			);
@@ -352,11 +412,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE25805A0EE97BE31EE2447B56410EED /* Sources */ = {
+		6E95DA9C7456E78B8DD7162DFBFF8168 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A85FA8DFEA69ECEC0CC0C9C06E708463 /* MLocalizedStringKit-dummy.m in Sources */,
+				B1BD2CF525A5251AF73A9BDDB279D506 /* MLocalizedStringKit-dummy.m in Sources */,
+				24C0F57259AB2E7D20D376C793A17351 /* PPLocalizationManager.m in Sources */,
+				1CF5707FCCD2D797013F1189F2474FA9 /* PPLocalizedString.m in Sources */,
+				84797603F51A33A12F9A341CAAA4E866 /* PPLoginLocalizedString.m in Sources */,
+				4A39EC20AFBA791A9274A88569BAD17E /* PPModelLocalizedString.m in Sources */,
+				9909AD5D0C4372FE1E1F1C6A7AF5619E /* PPMoreLocalizedString.m in Sources */,
+				2067D83BBB24D080EFBAE9C32C21E5E8 /* PPOrderLocalizedString.m in Sources */,
+				A26F135352EECD729859B7D972991EAD /* PPShoppingLocalizedString.m in Sources */,
+				B3207AD8A420AD09BE35D3F8ABA9F5D1 /* PPViewLocalizedString.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,7 +434,7 @@
 		1400D0FA6DB84676CA40B43CA4DCA811 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MLocalizedStringKit;
-			target = 21BE90A05C845E884D07D7949FF9FAD1 /* MLocalizedStringKit */;
+			target = 5ECDC7D18352B235D0E1435A5DE06210 /* MLocalizedStringKit */;
 			targetProxy = 78B82F46D0DF9DF2108365D4A6AEEEBD /* PBXContainerItemProxy */;
 		};
 		48AB7A76668A8A795F9E5533BFEF4794 /* PBXTargetDependency */ = {
@@ -475,6 +543,36 @@
 			};
 			name = Debug;
 		};
+		4807FCC239C040DB2D2AED22D83E374C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DEA1D337163C84A06712F9C701E29B7D /* MLocalizedStringKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MLocalizedStringKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit.modulemap";
+				PRODUCT_MODULE_NAME = MLocalizedStringKit;
+				PRODUCT_NAME = MLocalizedStringKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		7F59128F214D6662A616E325BF6E7FFC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A843078287BF5E455EAA45A47FE61CE3 /* Pods-MLocalizedStringKit_Example.debug.xcconfig */;
@@ -542,6 +640,37 @@
 			};
 			name = Release;
 		};
+		C2433CCFCA3E9B44254D69F6CAA45472 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DEA1D337163C84A06712F9C701E29B7D /* MLocalizedStringKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MLocalizedStringKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit.modulemap";
+				PRODUCT_MODULE_NAME = MLocalizedStringKit;
+				PRODUCT_NAME = MLocalizedStringKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		CEA246B80345B1E642F0BE396E3EC002 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 76B4A9EDE4869C954FD5E79E4C59E362 /* Pods-MLocalizedStringKit_Tests.debug.xcconfig */;
@@ -574,67 +703,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		D3001F492CFF643F5C7ED8A770DECCBF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FDE3EFF8108867C11C49848B78B05AD5 /* MLocalizedStringKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MLocalizedStringKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit.modulemap";
-				PRODUCT_MODULE_NAME = MLocalizedStringKit;
-				PRODUCT_NAME = MLocalizedStringKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		D8CB74B6B5D1B3F12EBAD9CDBE19D48F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FDE3EFF8108867C11C49848B78B05AD5 /* MLocalizedStringKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MLocalizedStringKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MLocalizedStringKit/MLocalizedStringKit.modulemap";
-				PRODUCT_MODULE_NAME = MLocalizedStringKit;
-				PRODUCT_NAME = MLocalizedStringKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -715,11 +783,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD8F1C9C0AA63A05C25BB8A4770EE8D4 /* Build configuration list for PBXNativeTarget "MLocalizedStringKit" */ = {
+		C439E21E97C7733F81C41E9CFDEF2581 /* Build configuration list for PBXNativeTarget "MLocalizedStringKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D3001F492CFF643F5C7ED8A770DECCBF /* Debug */,
-				D8CB74B6B5D1B3F12EBAD9CDBE19D48F /* Release */,
+				4807FCC239C040DB2D2AED22D83E374C /* Debug */,
+				C2433CCFCA3E9B44254D69F6CAA45472 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -1,9 +1,9 @@
 {
   "name": "MLocalizedStringKit",
-  "version": "0.1.0",
-  "summary": "A short description of MLocalizedStringKit.",
+  "version": "1.0.0",
+  "summary": "MLocalizedStringKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/1499603656@qq.com/MLocalizedStringKit",
+  "homepage": "https://github.com/mafeng-Bryant/MLocalizedStringKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "1499603656@qq.com": "feng.ma@patpat.com"
   },
   "source": {
-    "git": "https://github.com/1499603656@qq.com/MLocalizedStringKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/mafeng-Bryant/MLocalizedStringKit.git",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "8.0"
